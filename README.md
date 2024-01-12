@@ -20,8 +20,8 @@ Applications that run on Matrix OS. All user interactions are Matrix OS applicat
 ## Supported Devices
 | Device Name            | Type | Chip     | Supported | Note              | Purchase                                       |
 |------------------------|------|----------|-----------|-------------------|------------------------------------------------|
-| Matrix Pro             | Grid | ESP32-S3 | Yes       |                   | [203.io](https://203.io/products/matrix-pro-pre-order)   |
-| Matrix Founder Edition | Grid | STM32F1  | Partially | Not fully stable | [203.io](https://203.io/products/matrix-founder-edition) |
+| Square                 | Grid | ESP32-S3 | Yes       |                   |                                                |
+
 
 
 ## Getting Started
