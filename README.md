@@ -1,4 +1,6 @@
-# Matrix OS
+# Matrix OS For RapidPulze Square
+
+### FORK FROM 203 MatrixOS
 
 An operating system for human interface devices that is designed to be cross-platform and modular.
 
